@@ -28,7 +28,7 @@ changes in eyelid movement speed.
 
 ## Files
 
-- BlinkRate/
+BlinkRate/
 ├── blinkrate.py          # Main app
 ├── analyze_session.py    # Report generator
 ├── requirements.txt
@@ -37,5 +37,5 @@ changes in eyelid movement speed.
 
 ## Author
 
-- Thuvaraka Yogeswaran
-- GitHub: @ThuvarakaYogeswaran
+Thuvaraka Yogeswaran
+GitHub: @ThuvarakaYogeswaran
