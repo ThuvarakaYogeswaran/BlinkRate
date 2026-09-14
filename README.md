@@ -26,16 +26,7 @@ changes in eyelid movement speed.
 - A webcam
 - Windows, macOS, or Linux
 
-## Files
-
-BlinkRate/
-├── blinkrate.py          # Main app
-├── analyze_session.py    # Report generator
-├── requirements.txt
-├── README.md
-└── sessions/             # Saved sessions
-
 ## Author
 
-Thuvaraka Yogeswaran
-GitHub: @ThuvarakaYogeswaran
+- Thuvaraka Yogeswaran
+- GitHub: @ThuvarakaYogeswaran
