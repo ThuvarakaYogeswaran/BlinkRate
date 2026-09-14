@@ -29,4 +29,4 @@ changes in eyelid movement speed.
 ## Author
 
 - Thuvaraka Yogeswaran
-- GitHub: @ThuvarakaYogeswaran
+- GitHub: @[ThuvarakaYogeswaran](https://github.com/ThuvarakaYogeswaran)
