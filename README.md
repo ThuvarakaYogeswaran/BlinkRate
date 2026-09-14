@@ -29,7 +29,7 @@ changes in eyelid movement speed.
 ## Install
 
 ```bash
-git clone https://github.com/yourusername/BlinkRate.git
+git clone https://github.com/ThuvarakaYogeswaran/BlinkRate.git
 cd BlinkRate
 
 python -m venv venv
@@ -42,20 +42,22 @@ pip install mediapipe==0.10.14 --no-deps
 pip install absl-py attrs flatbuffers protobuf sounddevice matplotlib
 Important: Do not upgrade NumPy to 2.x. MediaPipe 0.10.14 needs NumPy 1.x.
 
+
 ## Run
-bash
+
+```bash
 python blinkrate.py
 Controls:
 
-q — Quit and save session
+- q — Quit and save session
 
-r — Reset session
+- r — Reset session
 
-s — Save snapshot
+- s — Save snapshot
 
 ## Files
-text
-BlinkRate/
+
+- BlinkRate/
 ├── blinkrate.py          # Main app
 ├── analyze_session.py    # Report generator
 ├── requirements.txt
@@ -64,5 +66,5 @@ BlinkRate/
 
 
 ## Author
-Thuvaraka Yogeswaran
-GitHub: @ThuvarakaYogeswaran
+- Thuvaraka Yogeswaran
+- GitHub: @ThuvarakaYogeswaran
