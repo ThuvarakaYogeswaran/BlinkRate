@@ -26,24 +26,6 @@ changes in eyelid movement speed.
 - A webcam
 - Windows, macOS, or Linux
 
-## Install
-
-```bash
-git clone https://github.com/ThuvarakaYogeswaran/BlinkRate.git
-cd BlinkRate
-
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS/Linux
-
-pip install numpy==1.26.4
-pip install opencv-python==4.9.0.80 --no-deps
-pip install mediapipe==0.10.14 --no-deps
-pip install absl-py attrs flatbuffers protobuf sounddevice matplotlib
-Important: Do not upgrade NumPy to 2.x. MediaPipe 0.10.14 needs NumPy 1.x.
-
----
-
 ## Files
 
 - BlinkRate/
@@ -52,8 +34,6 @@ Important: Do not upgrade NumPy to 2.x. MediaPipe 0.10.14 needs NumPy 1.x.
 ├── requirements.txt
 ├── README.md
 └── sessions/             # Saved sessions
-
----
 
 ## Author
 
