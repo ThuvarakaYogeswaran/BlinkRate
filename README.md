@@ -42,17 +42,7 @@ pip install mediapipe==0.10.14 --no-deps
 pip install absl-py attrs flatbuffers protobuf sounddevice matplotlib
 Important: Do not upgrade NumPy to 2.x. MediaPipe 0.10.14 needs NumPy 1.x.
 
-## Run
-
-```bash
-python blinkrate.py
-Controls:
-
-- q — Quit and save session
-
-- r — Reset session
-
-- s — Save snapshot
+---
 
 ## Files
 
@@ -63,6 +53,7 @@ Controls:
 ├── README.md
 └── sessions/             # Saved sessions
 
+---
 
 ## Author
 
